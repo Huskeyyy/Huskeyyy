@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @Huskeyyy</h1>
-<h3 align="center">I'm a 22 year old hobbyist developer from the UK, enjoys working with game consoles.</h3>
+<h3 align="center">I'm a 22 year old hobbyist developer from the UK, who enjoys working with game consoles.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
